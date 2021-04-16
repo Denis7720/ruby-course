@@ -1,0 +1,2 @@
+# ruby-course
+Study project

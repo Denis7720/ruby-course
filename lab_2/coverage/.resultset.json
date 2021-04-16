@@ -1,0 +1,45 @@
+{
+  "RSpec": {
+    "coverage": {
+      "C:/test/opo/lab_2/lib/csv_calc.rb": {
+        "lines": [
+          null,
+          null,
+          1,
+          null,
+          1,
+          1,
+          null,
+          1,
+          4,
+          4,
+          4,
+          4,
+          4,
+          null,
+          null,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          null,
+          null,
+          1,
+          18,
+          null,
+          null,
+          1,
+          1,
+          10,
+          1,
+          1,
+          null,
+          null
+        ]
+      }
+    },
+    "timestamp": 1618571236
+  }
+}
