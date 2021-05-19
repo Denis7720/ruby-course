@@ -1,5 +1,4 @@
-require 'rspec'
-require '../lib/temperature'
+require './lib/temperature'
 
 describe 'convert from celsius' do
   let(:c_to_c) { Temperature.new(20, 'C', 'C') }
