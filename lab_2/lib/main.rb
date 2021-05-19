@@ -12,7 +12,7 @@ class Main
   def self.ch_cols(data, cols)
     count = 1
     (1..cols).each do |i|
-      puts "#{count}"'. '"#{(data[0][i])}"
+      puts "#{count}"'. '"#{data[0][i]}"
       count += 1
     end
     gets.chomp.to_i
